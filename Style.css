@@ -1,0 +1,66 @@
+body{
+    background-color: #c1dfff;
+    
+}
+
+
+
+.Clase1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #acc7e4;
+    padding: 2%;
+    margin-bottom: 50px;
+
+}
+
+
+
+.Clase2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.complete {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+#img1{
+    margin: 1%;
+    width: 100px;
+    float:right;
+}
+
+main{
+    padding: 5%;
+}
+
+.Logos{
+    width: 35px;
+    vertical-align:middle;
+    margin: 20px;
+}
+
+.complete2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+
+.img2{
+    padding: 2%;
+    width: 100px;
+    float: left;
+
+    
+}
+
+
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: #acc7e4;
+    padding: 20px;
+    margin-top: 20px;
+    
+
+}
